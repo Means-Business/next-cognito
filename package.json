@@ -1,8 +1,8 @@
 {
   "private": true,
-  "name": "next-cognito-frontend",
-  "version": "1.0.0",
-  "description": "",
+  "name": "meansbusiness-next-cognito-frontend",
+  "version": "0.0.1",
+  "description": "Means Business Ltd. web app by Nextjs and AWS Cognito",
   "main": "index.js",
   "scripts": {
     "lint": "eslint .",
@@ -10,7 +10,7 @@
     "build": "next build",
     "start": "NODE_ENV=production node server.js"
   },
-  "author": "esplo <esplo@users.noreply.github.com> (https://github.com/esplo)",
+  "author": "Manot L. <manotlj@means-business.com> (https://github.com/ManotLuijiu)",
   "dependencies": {
     "@material-ui/core": "^1.4.3",
     "amazon-cognito-auth-js": "^1.2.4",
